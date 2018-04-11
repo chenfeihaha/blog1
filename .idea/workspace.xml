@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/blog/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -100,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="50" />
     <option name="y" value="89" />
     <option name="width" value="1400" />
@@ -451,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/blog/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
